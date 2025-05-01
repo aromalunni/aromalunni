@@ -3,6 +3,29 @@
 # Hello World!, I'm Aromal, a Cybersecurity Consultant 👋🏼:
 🛜 currently working on my own [webpage](https://my-web-psi-six.vercel.app/#education)<br>👨🏼‍🎓 studying media based Programing & Networking <br>👨🏼‍💻 working as a Chief Information Security Architect in AroX <br>🎬 just started Freelancer <i>Arox it Solutions</i>
 
+## 💻 Tech Stack & Tools with Animation:
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/css3-%23172B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/firebase-ffca28.svg?&style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/aws-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/kali_linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali" />
+    <img src="https://img.shields.io/badge/hack_the_box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB" />
+    <img src="https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+    <img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GH Actions" />
+    <img src="https://img.shields.io/badge/cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+    <img src="https://img.shields.io/badge/google%20cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  </marquee>
+</p>
+
 
 # 💻 Tech Stack & Domains:
 
