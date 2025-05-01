@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Malavika, a Full stack Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://malu-aromals-projects-f0b1c871.vercel.app/)<br>👨🏼‍🎓 studying media based Programing<br>👨🏼‍💻 working as a web developer in AroX <br>🎬 just started Freelancer <i>Arox it Solutions</i>
+# Hello World!, I'm Aromal, a Cybersecurity Consultant 👋🏼:
+🛜 currently working on my own [webpage](https://my-web-psi-six.vercel.app/#education)<br>👨🏼‍🎓 studying media based Programing & Networking <br>👨🏼‍💻 working as a Chief Information Security Architect in AroX <br>🎬 just started Freelancer <i>Arox it Solutions</i>
 
 
 # 💻 Tech Stack:
