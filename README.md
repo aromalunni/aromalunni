@@ -4,6 +4,11 @@
 🛜 currently working on my own [webpage](https://my-web-psi-six.vercel.app/#education)<br>👨🏼‍🎓 studying media based Programing & Networking <br>👨🏼‍💻 working as a Chief Information Security Architect in AroX <br>🎬 just started Freelancer <i>Arox it Solutions</i>
 
 ## 💻 Tech Stack & Tools with Animation:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" style="transform: perspective(200px) rotateY(10deg);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" style="transform: perspective(200px) rotateY(10deg);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="transform: perspective(200px) rotateY(10deg);" />
+</p>
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
