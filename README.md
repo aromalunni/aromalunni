@@ -3,27 +3,8 @@
 # Hello World!, I'm Aromal, a Cybersecurity Consultant 👋🏼:
 🛜 currently working on my own [webpage](https://my-web-psi-six.vercel.app/#education)<br>👨🏼‍🎓 studying media based Programing & Networking <br>👨🏼‍💻 working as a Chief Information Security Architect in AroX <br>🎬 just started Freelancer <i>Arox it Solutions</i>
 
-## 💻 Tech Stack & Tools with Animation:
-<style>
-  .tech-icon {
-    display: inline-block;
-    margin: 10px;
-    transition: transform 0.3s ease;
-  }
+## 💻 Tech Stack :
 
-  .tech-icon:hover {
-    transform: rotateY(20deg) scale(1.1);
-  }
-</style>
-
-<p align="center">
-  <img class="tech-icon" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img class="tech-icon" src="https://img.shields.io/badge/css3-%23172B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img class="tech-icon" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img class="tech-icon" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img class="tech-icon" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img class="tech-icon" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-</p>
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
